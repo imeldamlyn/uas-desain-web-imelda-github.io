@@ -267,7 +267,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../img/cover2.svg) no-repeat;
+    background: url(../cover2.png) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 24rem;
